@@ -85,25 +85,3 @@ xor x y
 
 ---
 
-## ✅ 9. Łączenie list
-
-```haskell
-[1,2] ++ [3,4]       -- [1,2,3,4]
-1 : [2,3]            -- [1,2,3]
-```
-
----
-
-## ✅ 10. Skróty i wbudowane funkcje
-
-| Symbol / Funkcja | Znaczenie                 |
-|------------------|---------------------------|
-| `:`              | dodaj element na początek listy |
-| `++`             | połącz dwie listy         |
-| `<-`             | generator w list comp.    |
-| `mod`            | reszta z dzielenia        |
-| `even`           | czy liczba jest parzysta  |
-
----
-
-💡 Powodzenia na kolosie! Masz to w małym palcu 😎
